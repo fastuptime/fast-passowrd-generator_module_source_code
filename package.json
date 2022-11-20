@@ -1,0 +1,24 @@
+{
+  "name": "fast-passowrd-generator",
+  "version": "1.0.2",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "password",
+    "generator", 
+    "fast",
+    "random"
+  ],
+  "author": "Can",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fastuptime/fast-passowrd-generator_module_source_code.git"
+  },
+  "dependencies": {
+  }
+}
