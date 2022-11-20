@@ -8,6 +8,8 @@ console.log("Şifreniz: " + gp(50));
 
 ```
 
+- [NPM](https://www.npmjs.com/package/fast-passowrd-generator)
+
 ---
 
 - ✨ [Destek İçin](https://fastuptime.com) <br>
